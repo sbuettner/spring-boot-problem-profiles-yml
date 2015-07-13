@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    default: development
+my:
+  prop: "Hello base config"
